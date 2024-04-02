@@ -302,7 +302,7 @@ blockquote p::before {
   }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
   .nav-links {
     display: none;
   }
